@@ -1,0 +1,11 @@
+# Addon input file
+in.txt
+installed.txt
+
+# Settings for IntelliJ
+.idea/
+
+# Compiled pyc files
+__pycache__/
+.vscode/
+desktop.ini
